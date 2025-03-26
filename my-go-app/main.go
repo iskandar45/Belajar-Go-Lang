@@ -21,5 +21,8 @@ func main() {
 	fmt.Println("5. (Mirip Class di OOP, Tapi Tanpa Method)")
 	structs()
 	fmt.Println("++++++++++++++++++++++++++")
+	fmt.Println("6. Pointer (Konsep Memory Golang)")
+	pointers()
+	fmt.Println("++++++++++++++++++++++++++")
 
 }

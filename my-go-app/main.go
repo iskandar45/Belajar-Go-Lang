@@ -11,4 +11,8 @@ func main() {
 	fmt.Println("2. Function & Loop")
 	loop()
 	fmt.Println("++++++++++++++++++++++++++")
+	fmt.Println("3. Array & Slice")
+	array()
+	slice()
+	fmt.Println("++++++++++++++++++++++++++")
 }

@@ -24,5 +24,8 @@ func main() {
 	fmt.Println("6. Pointer (Konsep Memory Golang)")
 	pointers()
 	fmt.Println("++++++++++++++++++++++++++")
+	fmt.Println("7. Conditions")
+	conditions()
+	fmt.Println("++++++++++++++++++++++++++")
 
 }

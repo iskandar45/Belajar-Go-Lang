@@ -27,5 +27,7 @@ func main() {
 	fmt.Println("7. Conditions")
 	conditions()
 	fmt.Println("++++++++++++++++++++++++++")
-
+	fmt.Println("8. Looping")
+	looping()
+	fmt.Println("++++++++++++++++++++++++++")
 }

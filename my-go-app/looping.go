@@ -34,7 +34,7 @@ func loopingMap() {
 	}
 	//For-range di map selalu mengembalikan key, value.
 	for key, value := range person {
-		fmt.Print(key, " : ", value)
+		fmt.Print("\n", key, " : ", value)
 	}
 }
 

@@ -29,5 +29,6 @@ func main() {
 	fmt.Println("++++++++++++++++++++++++++")
 	fmt.Println("8. Looping")
 	looping()
+	fmt.Println("")
 	fmt.Println("++++++++++++++++++++++++++")
 }
